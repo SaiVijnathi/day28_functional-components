@@ -1,0 +1,89 @@
+.posterDiv img{
+  display: inline-block;
+  width: 300px;
+}
+
+.posterDiv p{
+  display: inline-block;
+  width: 900px;
+  overflow:auto;
+  height: 400px;
+  margin-left: 30px;
+  text-align: justify;
+}
+
+.posterDiv{
+  background-color: rgb(220, 235, 235);
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.imageDiv{
+  border: 5px solid grey;
+  border-radius: 30px;
+  width: 300px;
+  height: 310px;
+  display: inline-block;
+  justify-content: center; 
+  margin: 20px;
+  padding-top: 20px;
+  background-color: bisque; 
+}
+
+.imageDiv img{
+  width: 260px;
+  height: 230px;
+}
+
+.imageDiv h3{
+  font-size: 1.1rem;
+  margin: 7px;
+}
+
+.imageDiv p{
+  font-size: 1.1rem;
+  margin: 7px;
+}
+
+#actors{
+  text-align: center;
+  background-color: rgb(220, 235, 235);
+  margin-bottom: 30px;
+}
+
+.songs{
+  background-color: rgb(220, 235, 235);
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.songs audio{
+  width: 500px;
+}
+
+video{
+  width: 600px;
+  height: 350px;
+  object-fit: cover;
+  padding-bottom: 20px;
+}
+
+#video{
+  background-color: rgb(220, 235, 235);
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+h1{
+  text-align: center;
+  background-color: rgb(220, 235, 235);
+  font-size: 2.5rem;
+}
+
+p{
+  margin-bottom: 0;
+}
+
+body{
+  padding-bottom: 30px;
+}
